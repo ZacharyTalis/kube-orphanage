@@ -1,4 +1,9 @@
 # Kube's Fumble Bundle
+[**Download**](https://zacharytalis.com/assets/zip/kube-orphanage.zip)
+
+[**TF2Maps listing**](https://tf2maps.net/threads/kubes-fumble-bundle.44687/)
+
+[**Repo mirror**](https://github.com/ZacharyTalis/kube-orphanage)
 
 ## License info
 To the extent which I can grant, the files included are dedicated to the public domain (CC0) unless otherwise specificed. You can credit me if you'd like!
@@ -11,7 +16,6 @@ Also: even if someone picks up a map here, you're still allowed to work on your 
 I can't hunt down any assets for ya, sowwy :(
 
 ## List of included maps
-
 - [cp_loess_a6](https://tf2maps.net/downloads/loess.1951/)
 - [cp_permafrost_a2](https://tf2maps.net/downloads/permafrost.820/)
 - [cp_talon_a4a](https://tf2maps.net/downloads/talon.711/)
